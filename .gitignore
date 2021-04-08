@@ -19,3 +19,21 @@ DerivedData
 Tests/Pods
 Tests/Podfile.lock
 Tests/AFNetworking Tests.xcodeproj/xcshareddata/xcschemes/
+AFNetworking.framework.zip
+
+# Fastlane
+/fastlane/report.xml
+/fastlane/.env*private*
+fastlane/test-output/*
+
+Carthage/Build
+
+fastlane/README.md
+
+AFNetworking.xcodeproj/xcshareddata/xcschemes/AFNetworking iOS.xcscheme
+
+AFNetworking.xcodeproj/xcshareddata/xcschemes/AFNetworking macOS.xcscheme
+
+AFNetworking.xcodeproj/xcshareddata/xcschemes/AFNetworking tvOS.xcscheme
+
+AFNetworking.xcodeproj/xcshareddata/xcschemes/AFNetworking watchOS.xcscheme
